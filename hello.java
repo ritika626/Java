@@ -207,11 +207,11 @@ class Chtu{
 
 class ki{
     public static void main(String args[]){
-        int S,E,W;
-        Scanner s=new Scanner(System.in);
-        S =s.nextInt();
-        E=s.nextInt();
-        
+        // int S,E,W;
+        // Scanner s=new Scanner(System.in);
+        // S =s.nextInt();
+        // E=s.nextInt();
+        System.out.print("hi hllo");
     }
 }
 
